@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="crontab" type="AUTO_DETECTED" />
+      <mapping pattern="BroadcastNotificationService" type="AUTO_DETECTED" />
+      <mapping pattern="StepFactory" type="JavaScript" />
+      <mapping pattern="medialibraryHClJlA" type="Native" />
+      <mapping pattern="medialibraryMlNNAe" type="Native" />
+      <mapping pattern="medialibraryjJEPMM" type="Native" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="qYmJGs36yr37fnZjlnx5n86g5oPVfWHtPbx2ojA0" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="apib" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

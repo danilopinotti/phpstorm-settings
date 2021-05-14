@@ -7,6 +7,56 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="CLionExternalRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Custom Build Application" pluginName="CLion IDE" pluginId="com.intellij.clion" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="CLionNativeAppRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Makefile Application" pluginName="Makefile" pluginId="com.intellij.clion-makefile" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="CLion_CoreDump">
+                    <value>
+                      <FeaturePluginData displayName="Core Dump Debug" pluginName="CLion IDE" pluginId="com.intellij.clion" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="CLion_Remote">
+                    <value>
+                      <FeaturePluginData displayName="GDB Remote Debug" pluginName="CLion IDE" pluginId="com.intellij.clion" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="CMakeBoostTestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Boost.Test" pluginName="CLion Boost.Test" pluginId="org.jetbrains.plugins.clion.test.boost" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="CMakeCatchTestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Catch" pluginName="CLion Catch" pluginId="org.jetbrains.plugins.clion.test.catch" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="CMakeDoctestTestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Doctest" pluginName="CLion Doctest" pluginId="org.jetbrains.plugins.clion.test.doctest" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="CMakeGoogleTestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Google Test" pluginName="CLion Google Testing and Mocking Framework" pluginId="org.jetbrains.plugins.clion.test.google" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="CMakeRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="CMake Application" pluginName="CLion IDE" pluginId="com.intellij.clion" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="CTestRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="CTest Application" pluginName="CLion CTest" pluginId="org.jetbrains.plugins.clion.ctest" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
@@ -37,6 +87,16 @@
                       <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="GradleAppRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Gradle Native Application" pluginName="com.intellij.clion-gradle" pluginId="com.intellij.clion-gradle" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="GradleRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Gradle" pluginName="Gradle" pluginId="com.intellij.gradle" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="HTTP Request" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" bundled="true" />
@@ -59,7 +119,7 @@
                   </entry>
                   <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
                     <value>
-                      <FeaturePluginData displayName="Makefile Target" pluginName="Makefile Language" pluginId="name.kropp.intellij.makefile" />
+                      <FeaturePluginData displayName="Makefile Target" pluginName="Makefile Language" pluginId="name.kropp.intellij.makefile" bundled="true" />
                     </value>
                   </entry>
                   <entry key="NodeJSConfigurationType">
@@ -117,6 +177,11 @@
                       <FeaturePluginData displayName="PHP Web Page" pluginName="PHP" pluginId="com.jetbrains.php" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="PythonConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="ReactNative">
                     <value>
                       <FeaturePluginData displayName="React Native" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
@@ -137,6 +202,11 @@
                       <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="Tox">
+                    <value>
+                      <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="UtPlSqlConfigurationType">
                     <value>
                       <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
@@ -145,6 +215,21 @@
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="com.jetbrains.cidr.embedded.customgdbserver.type">
+                    <value>
+                      <FeaturePluginData displayName="Embedded GDB Server" pluginName="com.intellij.clion.embedded" pluginId="com.intellij.clion.embedded" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="com.jetbrains.cidr.embedded.openocd.conf.type">
+                    <value>
+                      <FeaturePluginData displayName="OpenOCD Download &amp; Run" pluginName="com.intellij.clion.embedded" pluginId="com.intellij.clion.embedded" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="com.jetbrains.cidr.remote.gdbserver.type">
+                    <value>
+                      <FeaturePluginData displayName="Remote GDB Server" pluginName="CLion IDE" pluginId="com.intellij.clion" bundled="true" />
                     </value>
                   </entry>
                   <entry key="docker-deploy">
@@ -172,6 +257,11 @@
                       <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="tests">
+                    <value>
+                      <FeaturePluginData displayName="Python tests" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
+                    </value>
+                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
@@ -179,7 +269,22 @@
         </entry>
         <entry key="com.intellij.facetType">
           <value>
-            <FeaturePluginsList />
+            <FeaturePluginsList>
+              <option name="featureMap">
+                <map>
+                  <entry key="Python">
+                    <value>
+                      <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="buildout-python">
+                    <value>
+                      <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </FeaturePluginsList>
           </value>
         </entry>
       </map>

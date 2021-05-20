@@ -1,7 +1,0 @@
-<application>
-  <component name="Arduino Support Settings">
-    <boardCpuMap>
-      <entry key="uno" value="" />
-    </boardCpuMap>
-  </component>
-</application>

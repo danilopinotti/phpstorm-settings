@@ -4,6 +4,7 @@
       <mapping pattern="laravel-docker" type="AUTO_DETECTED" />
       <mapping pattern="crontab" type="AUTO_DETECTED" />
       <mapping pattern="BroadcastNotificationService" type="AUTO_DETECTED" />
+      <mapping pattern="forgot-password" type="AUTO_DETECTED" />
       <mapping pattern="StepFactory" type="JavaScript" />
       <mapping pattern="medialibraryHClJlA" type="Native" />
       <mapping pattern="medialibraryMlNNAe" type="Native" />

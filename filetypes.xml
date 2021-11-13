@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="laravel-docker" type="AUTO_DETECTED" />
       <mapping pattern="crontab" type="AUTO_DETECTED" />
       <mapping pattern="BroadcastNotificationService" type="AUTO_DETECTED" />
-      <mapping pattern="laravel-docker" type="AUTO_DETECTED" />
       <mapping pattern="StepFactory" type="JavaScript" />
       <mapping pattern="medialibraryHClJlA" type="Native" />
       <mapping pattern="medialibraryMlNNAe" type="Native" />

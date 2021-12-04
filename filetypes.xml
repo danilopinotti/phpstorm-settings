@@ -4,7 +4,6 @@
       <mapping pattern="laravel-docker" type="AUTO_DETECTED" />
       <mapping pattern="crontab" type="AUTO_DETECTED" />
       <mapping pattern="BroadcastNotificationService" type="AUTO_DETECTED" />
-      <mapping pattern="forgot-password" type="AUTO_DETECTED" />
       <mapping pattern="StepFactory" type="JavaScript" />
       <mapping pattern="medialibraryHClJlA" type="Native" />
       <mapping pattern="medialibraryMlNNAe" type="Native" />
@@ -12,12 +11,8 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="qYmJGs36yr37fnZjlnx5n86g5oPVfWHtPbx2ojA0" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".firebaserc" type="PLAIN_TEXT" />
-      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="apib" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="pde" type="ObjectiveC" />
     </extensionMap>
   </component>
 </application>

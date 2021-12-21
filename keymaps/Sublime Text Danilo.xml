@@ -17,6 +17,7 @@
   <action id="EditorScrollUp" />
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="ForceOthersToFollowAction" />
+  <action id="GotoUrlAction" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveLineDown">
@@ -30,5 +31,8 @@
   </action>
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
   </action>
 </keymap>
